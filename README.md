@@ -26,7 +26,7 @@ Con respecto a este boilerplate:
 1. Dentro de cypress/e2e/feautures ubicá todas tus feautures 
 2. Dentro de cypress/e2e/step-definitions ubicá los resolver de las feautures
 3. Dentro de cypress/fixtures ubica todos los recursos estáticos por ejemplo que necesites para las pruebas
-4. Dentro de pages podes poner helpers para acceder a los elementos del DOM por ejemplo
+4. Dentro de cypress/pages podes poner helpers para acceder a los elementos del DOM por ejemplo
 
 
 ## 😎 Regalo
